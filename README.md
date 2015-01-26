@@ -1,2 +1,3 @@
 awsusageanalyzr
 ===============
+How to install?
